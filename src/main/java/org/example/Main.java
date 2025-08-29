@@ -58,7 +58,6 @@ public class Main {
             logMessages.add("Exiting method");
         }
     }
-
     /**
      * Safely divide two numbers.  If the denominator is zero, it will return 0.
      *
